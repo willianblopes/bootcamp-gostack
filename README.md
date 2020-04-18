@@ -1,2 +1,2 @@
 # bootcamp
-aulas bootcamp node,react,react native
+aulas bootcamp referente a stack node,react,react native
